@@ -1,4 +1,4 @@
-* { box-sizing: border-box; }
+/* * { box-sizing: border-box; } */
 
 body {
   margin: 0;
@@ -93,3 +93,4 @@ body {
   .site-header { padding: 16px 24px; }
   .section { padding: 120px 8vw; }
 }
+
